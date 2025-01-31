@@ -1,0 +1,6 @@
+{"text": "2024年11月25日，中新双向投资洽谈会在苏州工业园区召开，26个中新双向投资项目签约落地。苏州工业园区是中国和新加坡两国政府间的首个合作项目", "lemma": "2024年11月25日，中新双向投资洽谈会在苏州工业园区召开，26个中新双向投资项目签约落地。苏州工业园区是中国和新加坡两国政府间的首个合作项目", "pos": "NUM", "dep": "nummod", "token_id": 0, "alignment_type": "aligned", "aligned_token_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+{"text": "。", "lemma": "。", "pos": "NOUN", "dep": "nsubj", "token_id": 1, "alignment_type": "aligned", "aligned_token_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+{"text": "明年是中新建交35周年，双方要密切高层往来，进一步加强发展战略对接，深化各领域合作，为两国人民带来更多福祉，为地区和平繁荣作出更大贡献", "lemma": "明年是中新建交35周年，双方要密切高层往来，进一步加强发展战略对接，深化各领域合作，为两国人民带来更多福祉，为地区和平繁荣作出更大贡献", "pos": "NOUN", "dep": "appos", "token_id": 2, "alignment_type": "aligned", "aligned_token_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+{"text": "。", "lemma": "。", "pos": "PROPN", "dep": "pobj", "token_id": 3, "alignment_type": "aligned", "aligned_token_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+{"text": "今年是苏州工业园区开发建设30周年。30年间，苏州工业园区从“池塘洼地”变成“创新之城”，树立了两国合作的生动样板，也是新加坡深度参与中国改革开放的见证", "lemma": "今年是苏州工业园区开发建设30周年。30年间，苏州工业园区从“池塘洼地”变成“创新之城”，树立了两国合作的生动样板，也是新加坡深度参与中国改革开放的见证", "pos": "PUNCT", "dep": "punct", "token_id": 4, "alignment_type": "aligned", "aligned_token_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+{"text": "。", "lemma": "。", "pos": "NOUN", "dep": "ROOT", "token_id": 5, "alignment_type": "aligned", "aligned_token_ids": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
